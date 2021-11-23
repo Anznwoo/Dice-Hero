@@ -18,7 +18,7 @@ using UnityEngine;
         }
         #endregion
     
-    public delegate void OnSlotCountChange(int val);
+    public delegate void OnSlotCountChange(int val); //슬롯 UI에도 추가
     public OnSlotCountChange onSlotCountChange;
 
 
@@ -36,21 +36,23 @@ using UnityEngine;
 
     void Start()
     {
-        SlotCnt = 4;
+        SlotCnt = 4; //인벤토리 칸수
     }
 
     public bool AddItem(Item _item)
     {      if(items.Count < SlotCnt)
         {
             items.Add(_item);
-            if(onChangeItem != null)
-            onChangeItem.Invoke();
+            //if(onChangeItem != null)
+            //onChangeItem.Invoke();
             return true;
         }
         return false;
     }
 
-    private void OnTriggerEnter2D(Collider2D collision)
+    //상대가 죽으면 AddItem 호출
+
+    /* private void OnTriggerEnter2D(Collider2D collision)
     {
         if(collision.CompareTag("FieldItem"))
         {
@@ -58,6 +60,6 @@ using UnityEngine;
             if (Additem(fieldItems.GetItem()))
             fieldItems.DestroyItem();
         }
-    }
+    } */
 }
   
