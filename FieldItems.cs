@@ -12,15 +12,13 @@ public class FieldItems : MonoBehaviour
         item.itemName = _item.itemName;
         item.itemImage = _item.itemImage;
         item.itemType = _item.itemType;
-
+        item.itemPrice = _item.itemPrice;
+        item.itemAttack = _item.itemAttack;
+        item.itemDefense = _item.itemDefense;
         image.sprite =item.itemImage;
     }
     public Item GetItem()
     {
         return item;
-    }
-    public void DestroyItem()
-    {
-        Destroy(gameObject);
     }
 }
