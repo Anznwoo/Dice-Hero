@@ -16,11 +16,13 @@ public class Item
     public ItemType itemType;
     public string itemName;
     public Sprite itemImage;
+    public int itemPrice;
+    public int itemAttack;
+    public int itemDefense;
 
     public bool Use()
     {
         return false;
     }
 }
-
 
