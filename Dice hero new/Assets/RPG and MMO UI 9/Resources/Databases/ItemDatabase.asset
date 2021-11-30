@@ -1,0 +1,1126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 712f610fc72ae0a48b8a08f8c43324fd, type: 3}
+  m_Name: ItemDatabase
+  m_EditorClassIdentifier: 
+  items:
+  - ID: 17
+    Name: "\uB098\uC774\uD504"
+    Icon: {fileID: 21300000, guid: da632f094f8549a46bc31abf4a16ffdc, type: 3}
+    Description: "\uBBFF\uC74C\uC9C1\uD558\uC9C4 \uBABB\uD55C \uC791\uACE0 \uBB49\uB69D\uD55C
+      \uCE5C\uAD6C"
+    Quality: 1
+    EquipType: 1
+    ItemType: 0
+    Type: Weapon
+    Subtype: Sharp Weapon
+    ItemTier: 2
+    Damage: 3
+    HP: 0
+    Heal: 0
+    Armor: 0
+    IsStackable: 0
+    Expendable: 0
+    Stack: 0
+    StoreStack: 0
+    Price: 100
+  - ID: 18
+    Name: "\uB300\uAC70"
+    Icon: {fileID: 21300000, guid: 91cf607fe35a4a449ba353db43fe4497, type: 3}
+    Description: "\uC9E7\uACE0 \uBB49\uD22D\uD55C \uB2E8\uAC80. \uBAA9\uC228\uC744
+      \uBBFF\uACE0 \uB9E1\uAE38 \uC218\uB294 \uC5C6\uC744\uAC83\uAC19\uB2E4."
+    Quality: 1
+    EquipType: 1
+    ItemType: 0
+    Type: Weapon
+    Subtype: Sharp Weapon
+    ItemTier: 1
+    Damage: 6
+    HP: 0
+    Heal: 0
+    Armor: 0
+    IsStackable: 0
+    Expendable: 0
+    Stack: 0
+    StoreStack: 0
+    Price: 100
+  - ID: 19
+    Name: "\uB108\uD074"
+    Icon: {fileID: 21300000, guid: 35146f2b8bc401241823902512213f8f, type: 3}
+    Description: "\uB0B4 \uC815\uC758\uC758 \uC8FC\uBA39\uC744 \uB9DB\uBD10\uB77C!"
+    Quality: 1
+    EquipType: 1
+    ItemType: 0
+    Type: Weapon
+    Subtype: Blunt Weapon
+    ItemTier: 1
+    Damage: 4
+    HP: 0
+    Heal: 0
+    Armor: 0
+    IsStackable: 0
+    Expendable: 0
+    Stack: 0
+    StoreStack: 0
+    Price: 100
+  - ID: 20
+    Name: "\uC57C\uAD6C\uBC30\uD2B8"
+    Icon: {fileID: 21300000, guid: 7112654e70ae59f4286b11dbf729285c, type: 3}
+    Description: "\uAE61! \uD648\uB7F0\uC774\uC694~!"
+    Quality: 1
+    EquipType: 1
+    ItemType: 0
+    Type: Weapon
+    Subtype: Blunt Weapon
+    ItemTier: 1
+    Damage: 4
+    HP: 0
+    Heal: 0
+    Armor: 0
+    IsStackable: 0
+    Expendable: 0
+    Stack: 0
+    StoreStack: 0
+    Price: 100
+  - ID: 21
+    Name: "\uD478\uC26C \uB098\uC774\uD504"
+    Icon: {fileID: 21300000, guid: 936973b30f0705e408e784baad5d9f60, type: 3}
+    Description: "\uACFC\uAC70\uC5D0\uB294 \uC88B\uC740 \uC554\uC0B4 \uBB34\uAE30\uC600\uC9C0\uB9CC...
+      \uC774 \uB188\uB4E4\uC5D0\uAC90 \uC18C\uC6A9\uC774 \uC5C6\uB124\uC694"
+    Quality: 1
+    EquipType: 1
+    ItemType: 0
+    Type: Weapon
+    Subtype: Sharp Weapon
+    ItemTier: 1
+    Damage: 4
+    HP: 0
+    Heal: 0
+    Armor: 0
+    IsStackable: 0
+    Expendable: 0
+    Stack: 0
+    StoreStack: 0
+    Price: 100
+  - ID: 22
+    Name: "\uB2E4\uC6A9\uB3C4\uCE7C"
+    Icon: {fileID: 21300000, guid: 41db179338ce82c47a3227934d9a3326, type: 3}
+    Description: "\uC9C0\uAE08\uC740 \uB9E5\uAC00\uC774\uBC84\uB3C4 \uB098\uB97C
+      \uAD6C\uD560 \uAC83 \uAC19\uC9C4 \uC54A\uC2B5\uB2C8\uB2E4"
+    Quality: 1
+    EquipType: 1
+    ItemType: 0
+    Type: Weapon
+    Subtype: Sharp Weapon
+    ItemTier: 2
+    Damage: 8
+    HP: 0
+    Heal: 0
+    Armor: 0
+    IsStackable: 0
+    Expendable: 0
+    Stack: 0
+    StoreStack: 0
+    Price: 100
+  - ID: 23
+    Name: "\uC0BD"
+    Icon: {fileID: 21300000, guid: 047ee1b4559acf943bb5c46867cdba8e, type: 3}
+    Description: "\uD6C4\uC6B0.... \uB545\uD30C\uB7EC \uAC00\uC57C\uC8E0?"
+    Quality: 2
+    EquipType: 1
+    ItemType: 0
+    Type: Weapon
+    Subtype: Sharp Weapon
+    ItemTier: 2
+    Damage: 8
+    HP: 0
+    Heal: 0
+    Armor: 0
+    IsStackable: 0
+    Expendable: 0
+    Stack: 0
+    StoreStack: 0
+    Price: 200
+  - ID: 24
+    Name: "\uC1E0\uC9C0\uB81B\uB300"
+    Icon: {fileID: 21300000, guid: bc47210923505ed4ba84e3b3bdeecc5e, type: 3}
+    Description: "\uC678\uACC4\uC778\uC73C\uB85C\uBD80\uD130\uB3C4 \uC6B0\uB9AC\uB97C
+      \uC9C0\uCF1C\uC900 \uB4E0\uB4E0\uD55C \uCE5C\uAD6C\uC785\uB2C8\uB2E4"
+    Quality: 2
+    EquipType: 1
+    ItemType: 0
+    Type: Weapon
+    Subtype: Sharp Weapon
+    ItemTier: 2
+    Damage: 8
+    HP: 0
+    Heal: 0
+    Armor: 0
+    IsStackable: 0
+    Expendable: 0
+    Stack: 0
+    StoreStack: 0
+    Price: 200
+  - ID: 25
+    Name: "\uC57C\uAD6C \uBC30\uD2B82"
+    Icon: {fileID: 21300000, guid: b98ff12ca8961fe479c6fcf910ccb020, type: 3}
+    Description: "\uD37D!!! \uBC15\uC0B4\uC774\uC694!"
+    Quality: 2
+    EquipType: 1
+    ItemType: 0
+    Type: Weapon
+    Subtype: Blunt Weapon
+    ItemTier: 2
+    Damage: 9
+    HP: 0
+    Heal: 0
+    Armor: 0
+    IsStackable: 0
+    Expendable: 0
+    Stack: 0
+    StoreStack: 0
+    Price: 200
+  - ID: 26
+    Name: "\uC18C\uBC29\uB3C4\uB07C"
+    Icon: {fileID: 21300000, guid: 1ead2aedacd6fb540b82a02e2067bbe1, type: 3}
+    Description: "\uBAA9\uC228\uC744 \uAD6C\uD558\uAE30 \uC704\uD574 \uC788\uB358
+      \uC774 \uB3C4\uB07C\uB294, \uB05D\uAE4C\uC9C0 \uC0AC\uBA85\uC744 \uB2E4\uD569\uB2C8\uB2E4"
+    Quality: 2
+    EquipType: 1
+    ItemType: 0
+    Type: Weapon
+    Subtype: Sharp Weapon
+    ItemTier: 3
+    Damage: 11
+    HP: 0
+    Heal: 0
+    Armor: 0
+    IsStackable: 0
+    Expendable: 0
+    Stack: 0
+    StoreStack: 0
+    Price: 200
+  - ID: 27
+    Name: "\uD1A4\uBC14"
+    Icon: {fileID: 21300000, guid: 11c1c13e1ec08c44b82a1d802f82d27b, type: 3}
+    Description: "\uAC00\uBCCD\uACE0, \uB2E8\uB2E8\uD558\uBA70, \uC801\uC758 \uACF5\uACA9\uC744
+      \uB9C9\uACE0, \uBC18\uACA9\uD558\uB294\uB370 \uD6A8\uC728\uC801\uC785\uB2C8\uB2E4. "
+    Quality: 2
+    EquipType: 1
+    ItemType: 0
+    Type: Weapon
+    Subtype: Blunt Weapon
+    ItemTier: 2
+    Damage: 10
+    HP: 0
+    Heal: 0
+    Armor: 0
+    IsStackable: 0
+    Expendable: 0
+    Stack: 0
+    StoreStack: 0
+    Price: 200
+  - ID: 28
+    Name: "\uACE1\uAD2D\uC774"
+    Icon: {fileID: 21300000, guid: d2f6cc100a3522e42bbaa20819f8e74d, type: 3}
+    Description: "\uC774 \uBB34\uAE30\uB294, \uC6D0\uB798\uB3C4 \uC0AC\uB78C\uC744
+      \uB9CE\uC774 \uC8FD\uC600\uC5C8\uC2B5\uB2C8\uB2E4"
+    Quality: 2
+    EquipType: 1
+    ItemType: 0
+    Type: Weapon
+    Subtype: Sharp Weapon
+    ItemTier: 3
+    Damage: 11
+    HP: 0
+    Heal: 0
+    Armor: 0
+    IsStackable: 0
+    Expendable: 0
+    Stack: 0
+    StoreStack: 0
+    Price: 200
+  - ID: 29
+    Name: "\uAD8C\uCD1D"
+    Icon: {fileID: 21300000, guid: 537b66ab82b6eb648b8a07687eb30dae, type: 3}
+    Description: "\uC791\uACE0, \uBCF4\uC798\uAC83\uC5C6\uC5B4 \uBCF4\uC774\uB294
+      \uC774 \uBB3C\uAC74\uC740, \uC131\uB2A5 \uD558\uB098\uB9CC\uD07C\uC740 \uD655\uC2E4\uD569\uB2C8\uB2E4"
+    Quality: 2
+    EquipType: 1
+    ItemType: 0
+    Type: Weapon
+    Subtype: Ranged Weapon
+    ItemTier: 2
+    Damage: 12
+    HP: 0
+    Heal: 0
+    Armor: 0
+    IsStackable: 0
+    Expendable: 0
+    Stack: 0
+    StoreStack: 0
+    Price: 200
+  - ID: 30
+    Name: "\uC11D\uAD81"
+    Icon: {fileID: 21300000, guid: 56113e5bc5b3a6b4ab4e8bc81bc1df24, type: 3}
+    Description: "\uCE68\uBB35\uC758 \uC0B4\uC778\uC790\uC778 \uC774 \uC11D\uAD81\uC740,
+      \uC880\uBE44 \uC138\uC0C1\uC5D0\uC11C \uC0B4\uC544\uB0A8\uAE30\uC5D0 \uAC00\uC7A5
+      \uC88B\uC740 \uBB34\uAE30\uAC00 \uB410\uC2B5\uB2C8\uB2E4"
+    Quality: 2
+    EquipType: 1
+    ItemType: 0
+    Type: Weapon
+    Subtype: Ranged Weapon
+    ItemTier: 3
+    Damage: 13
+    HP: 0
+    Heal: 0
+    Armor: 0
+    IsStackable: 0
+    Expendable: 0
+    Stack: 0
+    StoreStack: 0
+    Price: 200
+  - ID: 31
+    Name: "\uC7A5\uAC80"
+    Icon: {fileID: 21300000, guid: 75a17ca0a3ec4c344be31b12cca54584, type: 3}
+    Description: "\uC774\uB188\uC740 \uAF64 \uBBFF\uC74C\uC9C1\uC2A4\uB7FD\uB124\uC694"
+    Quality: 5
+    EquipType: 1
+    ItemType: 0
+    Type: Weapon
+    Subtype: Sharp Weapon
+    ItemTier: 3
+    Damage: 17
+    HP: 0
+    Heal: 0
+    Armor: 0
+    IsStackable: 0
+    Expendable: 0
+    Stack: 0
+    StoreStack: 0
+    Price: 300
+  - ID: 32
+    Name: SMG
+    Icon: {fileID: 21300000, guid: 986b58a8482b216458e13073a98113f6, type: 3}
+    Description: "\uB530\uB77C\uB77C\uB77D! \uB78C\uBCF4\uAC00 \uB418\uC5B4\uBD10\uC694!"
+    Quality: 5
+    EquipType: 1
+    ItemType: 0
+    Type: Weapon
+    Subtype: Ranged Weapon
+    ItemTier: 3
+    Damage: 16
+    HP: 0
+    Heal: 0
+    Armor: 0
+    IsStackable: 0
+    Expendable: 0
+    Stack: 0
+    StoreStack: 0
+    Price: 300
+  - ID: 33
+    Name: "\uB77C\uC774\uD50C"
+    Icon: {fileID: 21300000, guid: d819b8b6a9fecdd4193d1a38c26a673c, type: 3}
+    Description: "\uBA3C\uAC70\uB9AC\uC5D0\uC11C \uBA38\uB9AC\uB97C \uD1A1\uD1A1
+      \uD130\uB728\uB9AC\uB294 \uB9DB\uC774 \uC544\uC8FC \uC88B\uC2B5\uB2C8\uB2E4"
+    Quality: 5
+    EquipType: 0
+    ItemType: 0
+    Type: Weapon
+    Subtype: Ranged Weapon
+    ItemTier: 3
+    Damage: 18
+    HP: 0
+    Heal: 0
+    Armor: 0
+    IsStackable: 0
+    Expendable: 0
+    Stack: 0
+    StoreStack: 0
+    Price: 300
+  - ID: 34
+    Name: "\uC0F7\uAC74"
+    Icon: {fileID: 21300000, guid: 90fff32e60f615544b63726136520ca5, type: 3}
+    Description: "\uC880\uBE44\uB97C \uD615\uCCB4\uB3C4 \uC5C6\uC774 \uB0A0\uB824\uBC84\uB9B4
+      \uC218 \uC788\uC2B5\uB2C8\uB2E4"
+    Quality: 5
+    EquipType: 0
+    ItemType: 0
+    Type: Weapon
+    Subtype: Ranged Weapon
+    ItemTier: 3
+    Damage: 19
+    HP: 0
+    Heal: 0
+    Armor: 0
+    IsStackable: 0
+    Expendable: 0
+    Stack: 0
+    StoreStack: 0
+    Price: 300
+  - ID: 1
+    Name: "\uD14C\uC774\uD504"
+    Icon: {fileID: 21300000, guid: 363a5b907255e3b4c884940de49c94a9, type: 3}
+    Description: "\uC5B4\uB514\uB4E0\uC9C0, \uBB34\uC5C7\uC774\uB4E0 \uCC29! \uD558\uACE0
+      \uBD99\uC5EC\uC8FC\uB294 \uB9CC\uB2A5 \uD14C\uC774\uD504"
+    Quality: 1
+    EquipType: 0
+    ItemType: 1
+    Type: Material
+    Subtype: Ingredient
+    ItemTier: 1
+    Damage: 0
+    HP: 0
+    Heal: 0
+    Armor: 0
+    IsStackable: 1
+    Expendable: 0
+    Stack: 1
+    StoreStack: 0
+    Price: 10
+  - ID: 2
+    Name: "\uC885\uC774"
+    Icon: {fileID: 21300000, guid: 8ec002cc4bc60a34dbfd3a24b0763eea, type: 3}
+    Description: "\uCC2C\uB780\uD55C \uC778\uB958 \uBB38\uBA85\uC744 \uB300\uD45C\uD558\uB358
+      \uBC1C\uBA85\uD488\uC785\uB2C8\uB2E4"
+    Quality: 1
+    EquipType: 0
+    ItemType: 1
+    Type: Material
+    Subtype: Ingredient
+    ItemTier: 1
+    Damage: 0
+    HP: 0
+    Heal: 0
+    Armor: 0
+    IsStackable: 1
+    Expendable: 0
+    Stack: 6
+    StoreStack: 0
+    Price: 10
+  - ID: 3
+    Name: "\uCE94"
+    Icon: {fileID: 21300000, guid: bf9eeb516a32efb48951504644566ef8, type: 3}
+    Description: "\uC548\uC5D0 \uB4E0 \uC2DC\uC6D0\uD55C \uC74C\uB8CC\uAC00 \uC5C6\uC5B4\uC11C
+      \uC544\uC27D\uC9C0\uB9CC, \uADF8\uB798\uB3C4 \uB9E4\uC6B0 \uC720\uC6A9\uD55C
+      \uC7AC\uB8CC\uC785\uB2C8\uB2E4"
+    Quality: 1
+    EquipType: 0
+    ItemType: 1
+    Type: Material
+    Subtype: Ingredient
+    ItemTier: 1
+    Damage: 0
+    HP: 0
+    Heal: 0
+    Armor: 0
+    IsStackable: 1
+    Expendable: 0
+    Stack: 2
+    StoreStack: 0
+    Price: 10
+  - ID: 4
+    Name: "\uBE48\uBCD1"
+    Icon: {fileID: 21300000, guid: fbb9ed5176e74c74b92afcb44b9b58ab, type: 3}
+    Description: "\uC9C4\uC815\uD55C \uC758\uBBF8\uC758 \uC7AC\uD65C\uC6A9\uC744
+      \uD558\uACE0 \uC788\uB124\uC694"
+    Quality: 1
+    EquipType: 0
+    ItemType: 1
+    Type: Material
+    Subtype: Ingredient
+    ItemTier: 1
+    Damage: 0
+    HP: 0
+    Heal: 0
+    Armor: 0
+    IsStackable: 1
+    Expendable: 0
+    Stack: 1
+    StoreStack: 0
+    Price: 10
+  - ID: 5
+    Name: "\uBB3C"
+    Icon: {fileID: 21300000, guid: 4e461591fffa0ab4781ec04cb51c501c, type: 3}
+    Description: "\uBB3C\uC740 \uC5EC\uC804\uD788, \uB9C8\uC2E4\uB54C\uC5D0\uB9CC
+      \uD544\uC694\uD55C\uAC8C \uC544\uB2D9\uB2C8\uB2E4"
+    Quality: 1
+    EquipType: 0
+    ItemType: 1
+    Type: Material
+    Subtype: Ingredient
+    ItemTier: 1
+    Damage: 0
+    HP: 0
+    Heal: 0
+    Armor: 0
+    IsStackable: 1
+    Expendable: 0
+    Stack: 3
+    StoreStack: 0
+    Price: 10
+  - ID: 6
+    Name: "\uD0C4\uD53C"
+    Icon: {fileID: 21300000, guid: 4a58eac8daaaeda488aa650d9f89037c, type: 3}
+    Description: "\uC608\uC804\uC774\uB098, \uC9C0\uAE08\uC774\uB098, \uC783\uC5B4\uBC84\uB9AC\uBA74
+      \uD070 \uC77C\uC774 \uB098\uB294 \uBB3C\uAC74\uC785\uB2C8\uB2E4"
+    Quality: 2
+    EquipType: 0
+    ItemType: 1
+    Type: Material
+    Subtype: Ingredient
+    ItemTier: 2
+    Damage: 0
+    HP: 0
+    Heal: 0
+    Armor: 0
+    IsStackable: 1
+    Expendable: 0
+    Stack: 1
+    StoreStack: 0
+    Price: 20
+  - ID: 7
+    Name: "\uB4DC\uB77C\uC774\uBC84"
+    Icon: {fileID: 21300000, guid: 7e512adb2c3514d4bbf56a15416c2ca0, type: 3}
+    Description: "\uBB38\uBA85\uC758 \uD754\uC801\uB4E4\uC744 \uBD84\uD574\uD558\uB294\uB370
+      \uAC00\uC7A5 \uC801\uD569\uD55C \uB3C4\uAD6C\uC785\uB2C8\uB2E4"
+    Quality: 2
+    EquipType: 0
+    ItemType: 1
+    Type: Material
+    Subtype: Ingredient
+    ItemTier: 2
+    Damage: 0
+    HP: 0
+    Heal: 0
+    Armor: 0
+    IsStackable: 1
+    Expendable: 0
+    Stack: 1
+    StoreStack: 0
+    Price: 20
+  - ID: 8
+    Name: "\uAC74\uC804\uC9C0"
+    Icon: {fileID: 21300000, guid: 46a1681939649ad44b1b9c3aba3dd3fe, type: 3}
+    Description: "\uC774\uC81C \uB354 \uC774\uC0C1 \uB9CC\uB4E4 \uC218 \uC5C6\uB294,
+      \uBB38\uBA85\uC758 \uB9C8\uC9C0\uB9C9 \uC720\uC0B0\uC785\uB2C8\uB2E4"
+    Quality: 2
+    EquipType: 0
+    ItemType: 1
+    Type: Material
+    Subtype: Ingredient
+    ItemTier: 2
+    Damage: 0
+    HP: 0
+    Heal: 0
+    Armor: 0
+    IsStackable: 1
+    Expendable: 0
+    Stack: 2
+    StoreStack: 0
+    Price: 20
+  - ID: 9
+    Name: "\uC591\uB3D9\uC774"
+    Icon: {fileID: 21300000, guid: 99f09f9af5a4c5a488978ecdf2656e18, type: 3}
+    Description: "\uCC38\uC73C\uB85C \uD3B8\uB9AC\uD558\uACE0, \uD2BC\uD2BC\uD55C
+      \uCCA0 \uC591\uB3D9\uC774"
+    Quality: 2
+    EquipType: 0
+    ItemType: 1
+    Type: Material
+    Subtype: Ingredient
+    ItemTier: 2
+    Damage: 0
+    HP: 0
+    Heal: 0
+    Armor: 0
+    IsStackable: 1
+    Expendable: 0
+    Stack: 1
+    StoreStack: 0
+    Price: 20
+  - ID: 10
+    Name: "\uB9DD\uCE58"
+    Icon: {fileID: 21300000, guid: 8fa4b9c900a990a4787c89229a9ab66a, type: 3}
+    Description: "\uC801\uC758 \uBA38\uB9AC\uB97C \uB450\uB4E4\uACA8\uB3C4 \uB418\uC9C0\uB9CC,
+      \uC9C0\uAE08\uC740 \uB2E4\uB978 \uAC83\uC744 \uB450\uB4E4\uACA8 \uBD05\uC2DC\uB2E4"
+    Quality: 2
+    EquipType: 0
+    ItemType: 1
+    Type: Material
+    Subtype: Ingredient
+    ItemTier: 2
+    Damage: 0
+    HP: 0
+    Heal: 0
+    Armor: 0
+    IsStackable: 1
+    Expendable: 0
+    Stack: 1
+    StoreStack: 0
+    Price: 20
+  - ID: 11
+    Name: "\uC2A4\uD328\uB108"
+    Icon: {fileID: 21300000, guid: 45ba814be901a6840be87794c5a5f857, type: 3}
+    Description: "\uC0DD\uAC01\uBCF4\uB2E4 \uBB35\uC9C1\uD574\uC11C \uB180\uB77C\uC6B4
+      \uC2A4\uD328\uB108"
+    Quality: 2
+    EquipType: 0
+    ItemType: 1
+    Type: Material
+    Subtype: Ingredient
+    ItemTier: 2
+    Damage: 0
+    HP: 0
+    Heal: 0
+    Armor: 0
+    IsStackable: 1
+    Expendable: 0
+    Stack: 1
+    StoreStack: 0
+    Price: 20
+  - ID: 12
+    Name: "\uBC27\uC904"
+    Icon: {fileID: 21300000, guid: f4a04c25dd6ece5498aba33e310e5618, type: 3}
+    Description: "\uC778\uB958\uC758 \uC2DC\uCD08\uBD80\uD130 \uD568\uAED8\uD574\uC628,
+      \uC544\uC8FC \uC720\uC6A9\uD55C \uCE5C\uAD6C\uC785\uB2C8\uB2E4"
+    Quality: 2
+    EquipType: 0
+    ItemType: 1
+    Type: Material
+    Subtype: Ingredient
+    ItemTier: 2
+    Damage: 0
+    HP: 0
+    Heal: 0
+    Armor: 0
+    IsStackable: 1
+    Expendable: 0
+    Stack: 1
+    StoreStack: 0
+    Price: 20
+  - ID: 13
+    Name: "\uCDA9\uC804\uAE30"
+    Icon: {fileID: 21300000, guid: 9b2886496def5dd419df6f42bcb53af8, type: 3}
+    Description: "\uCC28\uB7C9\uC6A9 \uBC30\uD130\uB9AC\uB294 \uB9CE\uC740 \uC804\uB825\uC744
+      \uB2F4\uACE0 \uC788\uC2B5\uB2C8\uB2E4."
+    Quality: 5
+    EquipType: 0
+    ItemType: 1
+    Type: Material
+    Subtype: Ingredient
+    ItemTier: 3
+    Damage: 0
+    HP: 0
+    Heal: 0
+    Armor: 0
+    IsStackable: 1
+    Expendable: 0
+    Stack: 0
+    StoreStack: 0
+    Price: 30
+  - ID: 14
+    Name: "\uC5F4\uC1E0"
+    Icon: {fileID: 21300000, guid: d23cf168879e9de4faaca8c0459b5086, type: 3}
+    Description: "\uC5B4\uB514\uC758 \uC5F4\uC1E0\uC600\uC744\uAE4C\uC694?"
+    Quality: 5
+    EquipType: 0
+    ItemType: 1
+    Type: Material
+    Subtype: Ingredient
+    ItemTier: 3
+    Damage: 0
+    HP: 0
+    Heal: 0
+    Armor: 0
+    IsStackable: 1
+    Expendable: 0
+    Stack: 1
+    StoreStack: 0
+    Price: 30
+  - ID: 15
+    Name: "\uACF5\uAD6C\uD568"
+    Icon: {fileID: 21300000, guid: 256136bf9527b144f8d33e01b84cca73, type: 3}
+    Description: "\uB2E4\uC591\uD55C \uB3C4\uAD6C\uB4E4\uC774 \uB2F4\uACA8\uC788\uB294
+      \uB4EC\uC9C1\uD55C \uACF5\uAD6C\uD568"
+    Quality: 5
+    EquipType: 0
+    ItemType: 3
+    Type: Material
+    Subtype: Ingredient
+    ItemTier: 3
+    Damage: 0
+    HP: 0
+    Heal: 0
+    Armor: 0
+    IsStackable: 1
+    Expendable: 0
+    Stack: 2
+    StoreStack: 0
+    Price: 30
+  - ID: 16
+    Name: "\uAE30\uB984"
+    Icon: {fileID: 21300000, guid: 23b49848172cd374cae12cebe66c647f, type: 3}
+    Description: "\uC774\uAC83\uB54C\uBB38\uC5D0 \uC804\uC7C1\uB3C4 \uC77C\uC5B4\uB0AC\uC5C8\uB294\uB370,
+      \uC774\uC81C\uB294 \uACBD\uC7C1\uC790\uAC00 \uC5C6\uB124\uC694"
+    Quality: 5
+    EquipType: 0
+    ItemType: 1
+    Type: Material
+    Subtype: Ingredient
+    ItemTier: 3
+    Damage: 0
+    HP: 0
+    Heal: 0
+    Armor: 0
+    IsStackable: 1
+    Expendable: 0
+    Stack: 1
+    StoreStack: 0
+    Price: 30
+  - ID: 35
+    Name: "\uC800\uACA9\uCD1D"
+    Icon: {fileID: 21300000, guid: cefa897098e0add43a599c266dad7c01, type: 3}
+    Description: "\uC880\uBE44\uB294 \uCC9C\uCC9C\uD788 \uAC78\uC5B4\uC640\uC11C
+      \uB9DE\uCD94\uAE30 \uC26C\uC6B4 \uD45C\uC801\uC785\uB2C8\uB2E4"
+    Quality: 5
+    EquipType: 1
+    ItemType: 0
+    Type: Weapon
+    Subtype: Ranged Weapon
+    ItemTier: 3
+    Damage: 20
+    HP: 0
+    Heal: 0
+    Armor: 0
+    IsStackable: 0
+    Expendable: 0
+    Stack: 0
+    StoreStack: 0
+    Price: 300
+  - ID: 36
+    Name: "\uC8FC\uC0AC\uC704"
+    Icon: {fileID: 0}
+    Description: "\uC628\uC804\uD55C \uC6B4\uBA85\uC758 \uC8FC\uC0AC\uC704\uB97C
+      \uD558\uB098 \uB354 \uC5BB\uC2B5\uB2C8\uB2E4."
+    Quality: 1
+    EquipType: 0
+    ItemType: 2
+    Type: Expendable
+    Subtype: Dice
+    ItemTier: 1
+    Damage: 0
+    HP: 0
+    Heal: 0
+    Armor: 0
+    IsStackable: 1
+    Expendable: 1
+    Stack: 0
+    StoreStack: 0
+    Price: 20
+  - ID: 37
+    Name: "\uD76C\uBBF8\uD55C \uC8FC\uC0AC\uC7041"
+    Icon: {fileID: 0}
+    Description: "3\uC774\uD558\uC758 \uC22B\uC790\uB9CC \uD76C\uBBF8\uD558\uAC8C
+      \uBCF4\uC774\uB294 \uC6B4\uBA85\uC758 \uC8FC\uC0AC\uC704"
+    Quality: 2
+    EquipType: 0
+    ItemType: 2
+    Type: Expendable
+    Subtype: Dice
+    ItemTier: 2
+    Damage: 0
+    HP: 0
+    Heal: 0
+    Armor: 0
+    IsStackable: 1
+    Expendable: 1
+    Stack: 0
+    StoreStack: 0
+    Price: 50
+  - ID: 38
+    Name: "\uD76C\uBBF8\uD55C \uC8FC\uC0AC\uC7042"
+    Icon: {fileID: 0}
+    Description: "4\uC774\uC0C1\uC758 \uC22B\uC790\uB9CC \uD76C\uBBF8\uD558\uAC8C
+      \uBCF4\uC774\uB294 \uC6B4\uBA85\uC758 \uC8FC\uC0AC\uC704"
+    Quality: 2
+    EquipType: 0
+    ItemType: 2
+    Type: Expendable
+    Subtype: Dice
+    ItemTier: 2
+    Damage: 0
+    HP: 0
+    Heal: 0
+    Armor: 0
+    IsStackable: 1
+    Expendable: 1
+    Stack: 0
+    StoreStack: 0
+    Price: 50
+  - ID: 39
+    Name: "\uBD95\uB300"
+    Icon: {fileID: 21300000, guid: ad7a07f63a1ef8f4490e99b3c85401de, type: 3}
+    Description: "\uB2E4\uCE5C \uACF3\uC744 \uAC10\uC2F8\uC8FC\uB294 \uBD95\uB300\uC785\uB2C8\uB2E4."
+    Quality: 1
+    EquipType: 0
+    ItemType: 2
+    Type: Expendable
+    Subtype: Potion
+    ItemTier: 2
+    Damage: 0
+    HP: 0
+    Heal: 20
+    Armor: 0
+    IsStackable: 1
+    Expendable: 1
+    Stack: 1
+    StoreStack: 0
+    Price: 100
+  - ID: 40
+    Name: "\uD56D\uC0DD\uC81C"
+    Icon: {fileID: 21300000, guid: eab6db6e73ac3564db82bdf885ce8f9f, type: 3}
+    Description: "\uAC01\uC885 \uAC10\uC5FC\uC744 \uB9C9\uC544\uC8FC\uC9C0\uB9CC...
+      \uC880\uBE44\uBC14\uC774\uB7EC\uC2A4\uB294 \uC544\uC27D\uAC8C\uB3C4 \uC544\uB2D9\uB2C8\uB2E4"
+    Quality: 1
+    EquipType: 0
+    ItemType: 2
+    Type: Expendable
+    Subtype: Potion
+    ItemTier: 2
+    Damage: 0
+    HP: 30
+    Heal: 20
+    Armor: 0
+    IsStackable: 1
+    Expendable: 1
+    Stack: 0
+    StoreStack: 0
+    Price: 100
+  - ID: 41
+    Name: "\uAC01\uC131\uC81C"
+    Icon: {fileID: 21300000, guid: ebc02b6efa473e549af3868c5b0ab322, type: 3}
+    Description: "\uC0DD\uC874\uC744 \uD5A5\uD55C \uC5F4\uB9DD\uC774, \uC8FC\uC0AC\uAE30\uC5D0
+      \uACE0\uC2A4\uB780\uD788 \uB2F4\uACA8\uC788\uC2B5\uB2C8\uB2E4"
+    Quality: 2
+    EquipType: 0
+    ItemType: 2
+    Type: Expendable
+    Subtype: Potion
+    ItemTier: 3
+    Damage: 0
+    HP: 0
+    Heal: 50
+    Armor: 0
+    IsStackable: 1
+    Expendable: 1
+    Stack: 0
+    StoreStack: 0
+    Price: 150
+  - ID: 42
+    Name: "\uC218\uD608\uD329"
+    Icon: {fileID: 21300000, guid: 46547616dbc5d6948b3bf125b42852aa, type: 3}
+    Description: "\uD53C\uB97C \uB9CE\uC774 \uC783\uC740 \uC0AC\uB78C\uC5D0\uAC8C
+      \uC218\uD608\uD558\uB294 \uC218\uD608\uD329\uC785\uB2C8\uB2E4"
+    Quality: 2
+    EquipType: 0
+    ItemType: 2
+    Type: Expendable
+    Subtype: Potion
+    ItemTier: 3
+    Damage: 0
+    HP: 0
+    Heal: 40
+    Armor: 0
+    IsStackable: 1
+    Expendable: 1
+    Stack: 1
+    StoreStack: 0
+    Price: 150
+  - ID: 43
+    Name: "\uD574\uB3C5\uC81C"
+    Icon: {fileID: 21300000, guid: 18763adaadad60344bc20a57943a4b6a, type: 3}
+    Description: "\uAC01\uC885 \uB3C5\uACFC \uC624\uC5FC\uC73C\uB85C\uBD80\uD130
+      \uD68C\uBCF5\uC2DC\uCF1C\uC8FC\uB294 \uC57D\uC785\uB2C8\uB2E4"
+    Quality: 2
+    EquipType: 0
+    ItemType: 2
+    Type: Expendable
+    Subtype: Potion
+    ItemTier: 3
+    Damage: 0
+    HP: 0
+    Heal: 50
+    Armor: 0
+    IsStackable: 1
+    Expendable: 1
+    Stack: 1
+    StoreStack: 0
+    Price: 200
+  - ID: 44
+    Name: "\uC601\uC591\uC81C"
+    Icon: {fileID: 21300000, guid: de0dbccc174ea40488ba987150c6d449, type: 3}
+    Description: "\uD604\uB300\uC778\uB4E4\uC740 \uB298 \uAE30\uB825\uC774 \uBD80\uC871\uD558\uC8E0.
+      \uC774\uAC83\uC774 \uADF8\uAC83\uC744 \uD574\uACB0\uD560\uAC81\uB2C8\uB2E4"
+    Quality: 2
+    EquipType: 0
+    ItemType: 2
+    Type: Expendable
+    Subtype: Potion
+    ItemTier: 2
+    Damage: 0
+    HP: 0
+    Heal: 40
+    Armor: 0
+    IsStackable: 1
+    Expendable: 1
+    Stack: 1
+    StoreStack: 0
+    Price: 200
+  - ID: 45
+    Name: "\uAD6C\uAE09\uC0C1\uC790"
+    Icon: {fileID: 21300000, guid: 5e44159687375ec4eb527a53741ee2f2, type: 3}
+    Description: "\uC751\uAE09\uD55C \uC0C1\uD669\uC5D0 \uC0AC\uC6A9\uD558\uB294
+      \uB4E0\uB4E0\uD55C \uAD6C\uAE09\uC0C1\uC790\uC785\uB2C8\uB2E4"
+    Quality: 5
+    EquipType: 0
+    ItemType: 2
+    Type: Expendable
+    Subtype: Potion
+    ItemTier: 3
+    Damage: 0
+    HP: 0
+    Heal: 100
+    Armor: 0
+    IsStackable: 1
+    Expendable: 1
+    Stack: 0
+    StoreStack: 0
+    Price: 500
+  - ID: 46
+    Name: "\uCD1D\uC54C"
+    Icon: {fileID: 21300000, guid: 95bad296b2ccf41459a444bc6a7ad9e2, type: 3}
+    Description: "\uBAA9\uC228\uB9CC\uD07C\uC774\uB098 \uADC0\uC911\uD55C \uC790\uC6D0\uC785\uB2C8\uB2E4"
+    Quality: 1
+    EquipType: 0
+    ItemType: 2
+    Type: Expendable
+    Subtype: Ammo
+    ItemTier: 1
+    Damage: 0
+    HP: 0
+    Heal: 0
+    Armor: 0
+    IsStackable: 1
+    Expendable: 1
+    Stack: 0
+    StoreStack: 0
+    Price: 20
+  - ID: 47
+    Name: "\uC218\uB958\uD0C4"
+    Icon: {fileID: 21300000, guid: b1735daa6080dd146b2b9d845a77d87d, type: 3}
+    Description: "\uD30C\uC774\uC5B4 \uC778 \uB354 \uD640!"
+    Quality: 2
+    EquipType: 0
+    ItemType: 2
+    Type: Expendable
+    Subtype: Ammo
+    ItemTier: 2
+    Damage: 0
+    HP: 0
+    Heal: 0
+    Armor: 0
+    IsStackable: 1
+    Expendable: 1
+    Stack: 0
+    StoreStack: 0
+    Price: 50
+  - ID: 48
+    Name: "\uD654\uC5FC\uBCD1"
+    Icon: {fileID: 21300000, guid: 469257b6abb1d544689e9937933466e9, type: 3}
+    Description: "\uB9CC\uB4E4\uAE30\uB3C4 \uC27D\uACE0, \uC704\uB825\uB3C4 \uAC15\uB825\uD55C
+      \uB4E0\uB4E0\uD55C \uBB34\uAE30\uC785\uB2C8"
+    Quality: 2
+    EquipType: 0
+    ItemType: 2
+    Type: Expendable
+    Subtype: Ammo
+    ItemTier: 2
+    Damage: 0
+    HP: 0
+    Heal: 0
+    Armor: 0
+    IsStackable: 1
+    Expendable: 1
+    Stack: 0
+    StoreStack: 0
+    Price: 50
+  - ID: 49
+    Name: "\uB2E4\uC774\uB108\uB9C8\uC774\uD2B8"
+    Icon: {fileID: 21300000, guid: b6ae3031c68499d43a1858ee3fdfeef4, type: 3}
+    Description: "\uB178\uBCA8\uC758 \uC704\uB300\uD55C \uC120\uBB3C\uC744 \uC601\uC811\uD558\uC138\uC694"
+    Quality: 5
+    EquipType: 0
+    ItemType: 2
+    Type: Expendable
+    Subtype: Ammo
+    ItemTier: 3
+    Damage: 0
+    HP: 0
+    Heal: 0
+    Armor: 0
+    IsStackable: 1
+    Expendable: 1
+    Stack: 18
+    StoreStack: 0
+    Price: 100
+  - ID: 50
+    Name: "\uB0A8\uC790 \uC880\uBE44"
+    Icon: {fileID: 21300000, guid: 2771fa18a97ca5a4fa84cb04af60f73f, type: 3}
+    Description: "\uD3C9\uBC94\uD55C \uB0A8\uC790 \uC880\uBE44. \uCE5C\uAD6C\uB97C
+      \uBCF4\uB294 \uAC83 \uAC19\uC544 \uC548\uD0C0\uAE5D\uB2E4."
+    Quality: 0
+    EquipType: 0
+    ItemType: 3
+    Type: "\uC880\uBE44"
+    Subtype: "\uC778\uAC04\uD615"
+    ItemTier: 0
+    Damage: 6
+    HP: 60
+    Heal: 0
+    Armor: 0
+    IsStackable: 0
+    Expendable: 0
+    Stack: 0
+    StoreStack: 0
+    Price: 0
+  - ID: 51
+    Name: "\uC5EC\uC790 \uC880\uBE44"
+    Icon: {fileID: 21300000, guid: 300a4820410ced141aa867bc66ab80bc, type: 3}
+    Description: "\uD3C9\uBC94\uD55C \uC5EC\uC790 \uC880\uBE44. \uAF43\uCC98\uB7FC
+      \uD53C\uC5B4\uB0A0\uB54C\uC5D0, \uC800\uBB3C\uC5B4\uBC84\uB838\uB2E4."
+    Quality: 0
+    EquipType: 0
+    ItemType: 3
+    Type: "\uC880\uBE44"
+    Subtype: "\uC778\uAC04"
+    ItemTier: 0
+    Damage: 5
+    HP: 55
+    Heal: 0
+    Armor: 0
+    IsStackable: 0
+    Expendable: 0
+    Stack: 0
+    StoreStack: 0
+    Price: 0
+  - ID: 52
+    Name: "\uAC1C \uC880\uBE44"
+    Icon: {fileID: 21300000, guid: 2e22237fa5eac804281f0724893f0bc7, type: 3}
+    Description: "\uCDA9\uC9C1\uD55C \uC6B0\uB9AC\uC758 \uBC18\uB824\uC790\uB9C8\uC800\uB3C4
+      \uBCC0\uD574\uBC84\uB838\uB2E4."
+    Quality: 0
+    EquipType: 0
+    ItemType: 3
+    Type: "\uC880\uBE44"
+    Subtype: "\uB3D9\uBB3C"
+    ItemTier: 0
+    Damage: 5
+    HP: 45
+    Heal: 0
+    Armor: 0
+    IsStackable: 0
+    Expendable: 0
+    Stack: 0
+    StoreStack: 0
+    Price: 0
+  - ID: 53
+    Name: "\uB178\uC219\uC790 \uC880\uBE44"
+    Icon: {fileID: 21300000, guid: 04e638d5012c9e341bf3b620a291e97c, type: 3}
+    Description: "\uC0B4\uC544\uC11C\uB3C4 \uBD88\uD589\uD588\uB358 \uC774\uB4E4\uC740,
+      \uC8FD\uC5B4\uC11C\uB3C4 \uD3B8\uD574\uC9C0\uC9C0 \uBABB\uD588\uB2E4."
+    Quality: 0
+    EquipType: 0
+    ItemType: 3
+    Type: "\uC880\uBE44"
+    Subtype: "\uC778\uAC04"
+    ItemTier: 0
+    Damage: 6
+    HP: 80
+    Heal: 0
+    Armor: 0
+    IsStackable: 0
+    Expendable: 0
+    Stack: 0
+    StoreStack: 0
+    Price: 0
+  - ID: 54
+    Name: "\uAC74\uB2EC \uC880\uBE44"
+    Icon: {fileID: 21300000, guid: a512f5fd91655834dadebdc3ce65a389, type: 3}
+    Description: "\uC0B4\uC544\uC11C\uB3C4 \uB3C4\uC6C0\uC774 \uC548\uB418\uB358
+      \uC774\uB4E4\uC740, \uC8FD\uC5B4\uC11C \uB354 \uD070 \uBB38\uC81C\uAC00 \uB410\uB2E4."
+    Quality: 0
+    EquipType: 0
+    ItemType: 3
+    Type: "\uC880\uBE44"
+    Subtype: "\uC778\uAC04"
+    ItemTier: 0
+    Damage: 7
+    HP: 100
+    Heal: 0
+    Armor: 0
+    IsStackable: 0
+    Expendable: 0
+    Stack: 0
+    StoreStack: 0
+    Price: 0
+  - ID: 55
+    Name: "\uBCC0\uC774 \uC880\uBE44"
+    Icon: {fileID: 21300000, guid: b49e1b02df2a45f4da0aad33da04d5aa, type: 3}
+    Description: "\uACF0\uD321\uC774\uAC00 \uBCC0\uC774\uB97C \uC77C\uC73C\uCF30\uB2E4.
+      \uB9E4\uC6B0 \uBBFC\uCCA9\uD558\uBA70 \uAC15\uB825\uD558\uB2E4."
+    Quality: 0
+    EquipType: 0
+    ItemType: 3
+    Type: "\uC880\uBE44"
+    Subtype: "\uC778\uAC04 \uBCC0\uC774\uCCB4"
+    ItemTier: 0
+    Damage: 9
+    HP: 180
+    Heal: 0
+    Armor: 0
+    IsStackable: 0
+    Expendable: 0
+    Stack: 0
+    StoreStack: 0
+    Price: 0
+  - ID: 56
+    Name: "\uACF0 \uC880\uBE44"
+    Icon: {fileID: 21300000, guid: c111909d3194a2a4fb3303a58167058e, type: 3}
+    Description: "\uD604\uC874 \uCD5C\uACE0\uC758 \uD3EC\uC2DD\uC790. \uB3C4\uB9DD\uCE58\uAC70\uB098,
+      \uC8FD\uC5EC\uC57C \uD55C\uB2E4."
+    Quality: 0
+    EquipType: 0
+    ItemType: 3
+    Type: "\uC880\uBE44"
+    Subtype: "\uB3D9\uBB3C \uBCC0\uC774\uCCB4"
+    ItemTier: 0
+    Damage: 10
+    HP: 250
+    Heal: 0
+    Armor: 0
+    IsStackable: 0
+    Expendable: 0
+    Stack: 0
+    StoreStack: 0
+    Price: 0

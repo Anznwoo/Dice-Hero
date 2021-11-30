@@ -1,0 +1,195 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8527bdcd6ff429b429a4f6bd60f9d25e, type: 3}
+  m_Name: CombineDatabase
+  m_EditorClassIdentifier: 
+  recipes:
+  - ID: 6
+    Name: "\uD0C4\uD53C"
+    Recipe1: 1
+    Recipe2: 3
+    RequiredAmount1: 1
+    RequiredAmount2: 1
+  - ID: 7
+    Name: "\uB4DC\uB77C\uC774\uBC84"
+    Recipe1: 3
+    Recipe2: 4
+    RequiredAmount1: 1
+    RequiredAmount2: 1
+  - ID: 8
+    Name: "\uAC74\uC804\uC9C0"
+    Recipe1: 2
+    Recipe2: 3
+    RequiredAmount1: 1
+    RequiredAmount2: 1
+  - ID: 9
+    Name: "\uC591\uB3D9\uC774"
+    Recipe1: 3
+    Recipe2: 5
+    RequiredAmount1: 1
+    RequiredAmount2: 1
+  - ID: 10
+    Name: "\uB9DD\uCE58"
+    Recipe1: 1
+    Recipe2: 4
+    RequiredAmount1: 1
+    RequiredAmount2: 1
+  - ID: 11
+    Name: "\uC2A4\uD328\uB108"
+    Recipe1: 2
+    Recipe2: 4
+    RequiredAmount1: 1
+    RequiredAmount2: 1
+  - ID: 12
+    Name: "\uBC27\uC904"
+    Recipe1: 1
+    Recipe2: 2
+    RequiredAmount1: 2
+    RequiredAmount2: 2
+  - ID: 13
+    Name: "\uCDA9\uC804\uAE30"
+    Recipe1: 8
+    Recipe2: 9
+    RequiredAmount1: 1
+    RequiredAmount2: 1
+  - ID: 14
+    Name: "\uC5F4\uC1E0"
+    Recipe1: 10
+    Recipe2: 11
+    RequiredAmount1: 1
+    RequiredAmount2: 1
+  - ID: 15
+    Name: "\uACF5\uAD6C\uD568"
+    Recipe1: 7
+    Recipe2: 10
+    RequiredAmount1: 1
+    RequiredAmount2: 1
+  - ID: 16
+    Name: "\uAE30\uB984"
+    Recipe1: 9
+    Recipe2: 12
+    RequiredAmount1: 1
+    RequiredAmount2: 1
+  - ID: 17
+    Name: "\uB098\uC774\uD504"
+    Recipe1: 2
+    Recipe2: 4
+    RequiredAmount1: 3
+    RequiredAmount2: 3
+  - ID: 18
+    Name: "\uB518\uAC80"
+    Recipe1: 1
+    Recipe2: 4
+    RequiredAmount1: 3
+    RequiredAmount2: 3
+  - ID: 19
+    Name: "\uB108\uD074"
+    Recipe1: 1
+    Recipe2: 3
+    RequiredAmount1: 3
+    RequiredAmount2: 3
+  - ID: 20
+    Name: "\uC57C\uAD6C\uBC30\uD2B8"
+    Recipe1: 1
+    Recipe2: 2
+    RequiredAmount1: 3
+    RequiredAmount2: 3
+  - ID: 21
+    Name: "\uD478\uC26C \uB098\uC774\uD504"
+    Recipe1: 3
+    Recipe2: 4
+    RequiredAmount1: 3
+    RequiredAmount2: 3
+  - ID: 22
+    Name: "\uB2E4\uC6A9\uB3C4 \uCE7C"
+    Recipe1: 17
+    Recipe2: 7
+    RequiredAmount1: 1
+    RequiredAmount2: 1
+  - ID: 23
+    Name: "\uC0BD"
+    Recipe1: 21
+    Recipe2: 11
+    RequiredAmount1: 1
+    RequiredAmount2: 1
+  - ID: 24
+    Name: "\uC1E0 \uC9C0\uB81B\uB300"
+    Recipe1: 18
+    Recipe2: 10
+    RequiredAmount1: 1
+    RequiredAmount2: 1
+  - ID: 25
+    Name: "\uC57C\uAD6C \uBC30\uD2B82"
+    Recipe1: 20
+    Recipe2: 10
+    RequiredAmount1: 1
+    RequiredAmount2: 1
+  - ID: 26
+    Name: "\uC18C\uBC29\uB3C4\uB07C"
+    Recipe1: 23
+    Recipe2: 15
+    RequiredAmount1: 1
+    RequiredAmount2: 1
+  - ID: 27
+    Name: "\uD1A4\uBC14"
+    Recipe1: 19
+    Recipe2: 9
+    RequiredAmount1: 1
+    RequiredAmount2: 1
+  - ID: 28
+    Name: "\uACE1\uAD2D\uC774"
+    Recipe1: 24
+    Recipe2: 15
+    RequiredAmount1: 1
+    RequiredAmount2: 1
+  - ID: 29
+    Name: "\uAD8C\uCD1D"
+    Recipe1: 21
+    Recipe2: 6
+    RequiredAmount1: 1
+    RequiredAmount2: 3
+  - ID: 30
+    Name: "\uC11D\uAD81"
+    Recipe1: 29
+    Recipe2: 15
+    RequiredAmount1: 1
+    RequiredAmount2: 1
+  - ID: 31
+    Name: "\uC7A5\uAC80"
+    Recipe1: 22
+    Recipe2: 16
+    RequiredAmount1: 1
+    RequiredAmount2: 1
+  - ID: 32
+    Name: SMG
+    Recipe1: 29
+    Recipe2: 13
+    RequiredAmount1: 1
+    RequiredAmount2: 1
+  - ID: 33
+    Name: "\uB77C\uC774\uD50C"
+    Recipe1: 29
+    Recipe2: 14
+    RequiredAmount1: 1
+    RequiredAmount2: 1
+  - ID: 34
+    Name: "\uC0F7\uAC74"
+    Recipe1: 29
+    Recipe2: 16
+    RequiredAmount1: 1
+    RequiredAmount2: 1
+  - ID: 35
+    Name: "\uC800\uACA9\uCD1D"
+    Recipe1: 29
+    Recipe2: 16
+    RequiredAmount1: 1
+    RequiredAmount2: 2
